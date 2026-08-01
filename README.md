@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1e,1e3a5f,3b82f6,8b5cf6,00d4ff&height=280&section=header&text=CyberSecurity%20Lab&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Jashore%20University%20of%20Science%20and%20Technology&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="./header.svg" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://cyber-security-just.github.io">
