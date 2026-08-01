@@ -384,15 +384,11 @@ Jashore-7408, Bangladesh
 <!-- VISITORS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Cyber-Security-JUST&style=for-the-badge&color=0a0f1e&label=PROFILE+VISITORS&labelColor=1e293b" />
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 <p style="color: #94a3b8; font-size: 14px; margin: 0; padding: 0;">
   Developed by <b><a href="https://mostafa-cse.github.io/" style="color: #00d4ff; text-decoration: none;">M0stafa Kamal</a></b> at Cyber Security Lab
 </p>
-
-<br/><br/>
-
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d4ff,8b5cf6,0a0f1e&height=120&section=footer" width="100%"/>
 
 </div>
