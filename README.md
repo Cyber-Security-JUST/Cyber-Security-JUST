@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,25:1e3a5f,50:3b82f6,75:8b5cf6,100:00d4ff&height=280&section=header&text=🛡️%20CyberSecurity%20Lab&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Jashore%20University%20of%20Science%20%26%20Technology&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1e,1e3a5f,3b82f6,8b5cf6,00d4ff&height=280&section=header&text=CyberSecurity%20Lab&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Jashore%20University%20of%20Science%20and%20Technology&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://cyber-security-just.github.io">
@@ -387,6 +387,6 @@ Jashore-7408, Bangladesh
 <br/><br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:8b5cf6,100:0a0f1e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d4ff,8b5cf6,0a0f1e&height=120&section=footer" width="100%"/>
 
 </div>
