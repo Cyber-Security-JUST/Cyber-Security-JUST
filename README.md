@@ -387,7 +387,7 @@ Jashore-7408, Bangladesh
 <br/><br/>
 
 <p style="color: #94a3b8; font-size: 14px; margin: 0; padding: 0;">
-  Developed by <b>Mostafa Kamal</b>
+  Developed by <b><a href="https://mostafa-cse.github.io/" style="color: #00d4ff; text-decoration: none;">M0stafa Kamal</a></b> at Cyber Security Lab
 </p>
 
 <br/><br/>
