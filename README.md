@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://cyber-security-just.github.io">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=50&lines=Advancing+Cybersecurity+Research+%26+Innovation;SDN+%7C+AI+%7C+Blockchain+%7C+Cyber-Physical+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Advancing+Cybersecurity+Research+%26+Innovation;SDN+%7C+AI+%7C+Blockchain+%7C+Cyber-Physical+Systems" alt="Typing SVG" />
 </a>
 
 <!-- SHIELDS -->
