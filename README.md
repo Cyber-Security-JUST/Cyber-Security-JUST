@@ -375,7 +375,7 @@ Jashore-7408, Bangladesh
 <br/>
 
 <!-- STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Cyber-Security-JUST&show_icons=true&theme=react&bg_color=0a0f1e&title_color=00d4ff&text_color=94a3b8&icon_color=8b5cf6&border_color=1e293b&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Cyber-Security-JUST&show_icons=true&theme=react&bg_color=0a0f1e&title_color=00d4ff&text_color=94a3b8&icon_color=8b5cf6&border_color=1e293b&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Cyber-Security-JUST&theme=react&background=0A0F1E&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=94A3B8&dates=64748B&border=1E293B" width="48%"/>
 
@@ -383,6 +383,12 @@ Jashore-7408, Bangladesh
 
 <!-- VISITORS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Cyber-Security-JUST&style=for-the-badge&color=0a0f1e&label=PROFILE+VISITORS&labelColor=1e293b" />
+
+<br/><br/>
+
+<p style="color: #94a3b8; font-size: 14px; margin: 0; padding: 0;">
+  Developed by <b>Mostafa Kamal</b>
+</p>
 
 <br/><br/>
 
