@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="./header.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1e,1e3a5f,3b82f6,8b5cf6,00d4ff&height=280&section=header&text=CyberSecurity%20Lab&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Jashore%20University%20of%20Science%20and%20Technology&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://cyber-security-just.github.io">
@@ -77,7 +77,7 @@ We focus on developing **efficient security solutions** for emerging technologie
 <tr>
 <td align="center" width="200">
 <br/>
-<img src="https://img.shields.io/badge/-SDN-3b82f6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNyAxNmwtNC00VjguODJDMTQuMTYgOC40IDE1IDcuMzEgMTUgNmMwLTEuNjYtMS4zNC0zLTMtM1M5IDQuMzQgOSA2YzAgMS4zMS44NCIyLjQgMiAyLjgyVjEybC00IDRoNXY0aDR2LTRoNXpNMTIgNmMuNTUgMCAxIC40NSAx IDFzLS40NSAxLTEgMS0xLS40NS0xLTEgLjQ1LTEgMS0xeiIvPjwvc3ZnPg==&logoColor=white" />
+<img src="https://img.shields.io/badge/-SDN-3b82f6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNyAxNmwtNC00VjguODJDMTQuMTYgOC40IDE1IDcuMzEgMTUgNmMwLTEuNjYtMS4zNC0zLTMtM1M5IDQuMzQgOSA2YzAgMS4zMS44NCIyLjQgMiAyLjgyVjEybC00IDRoNXY0aDR2LTRoNXpNMTIgNmMuNTUgMCAxIC40NSAxIDFzLS40NSAxLTEgMS0xLS40NS0xLTEgLjQ1LTEgMS0xeiIvPjwvc3ZnPg==&logoColor=white" />
 <br/><br/>
 <b>Software-Defined<br/>Networking</b>
 <br/><br/>
@@ -106,7 +106,7 @@ We focus on developing **efficient security solutions** for emerging technologie
 <tr>
 <td align="center" width="200">
 <br/>
-<img src="https://img.shields.io/badge/-AI_&_ML-00d4ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMS4zMyAxMi45MWMuMDktLjI5LjE0LS42LjE0LS45MSAwLS4zMS0uMDUtLjYyLS4xNC0uOTFsMS45Ny0xLjU0Yy4xOC0uMTQuMjMtLjQxLjEyLS42MWwtMS45Ny0zLjQxYy0uMTItLjIyLC4zNy0uMjktLjU5LC4yMmwtMi4zOS45NmMtLjUtLjM4LTEuMDMtLjctMS42Mi0uOTRMMTYuNjIuNTNjLS4wNC0uMjMtLjI0LS40MS0uNDgtLjQxaC0zLjk0Yy0uMjQgMC0uNDQuMTgtLjQ4LjQxbC0uMzIgMi41NWMtLjU5LjI0LTEuMTMuNTctMS42Mi45NGwtMi4zOS0uOTZjLS4yMi0uMDgtLjQ3IDAtLjU5LjIybC0xLjk3IDMuNDFjLS4xMi4yMi0uMDcuNDkuMTIuNjFsMS45NyAxLjU0Yy0uMDkuMjktLjE0LjYtLjE0LjkxIDAgLjMxLjA1LjYyLjE0LjkxbC0xLjk3IDEuNTRjLS4xOC4xNC0uMjMuNDEtLjEyLjYxbDEuOTcgMy40MWMuMTIuMjIuMzcuMjkuNTkuMjJsMi4zOS0uOTZjLjUuMzggMS4wMy43IDEuNjIuOTRsLjMyIDIuNTVjLjA0LjIzLjI0LjQxLjQ4LjQxaDMuOTRjLjI0IDAgLjQ0LS4xOC40OC0uNDFsLjMyLTIuNTVjLjU5LS4yNCAxLjEzLS41NyAxLjYyLS45NGwyLjM5Ljk2Yy4yMi4wOC40NyAwIC41OS0uMjJsMS45Ny0zLjQxYy4xMi0uMjIuMDctLjQ5LS4xMi0uNjFsLTEuOTctMS41NHpNMTIgMTUuNmMtMS45OCAwLTMuNi0xLjYyLTMuNi0zLjZzMS42Mi0zLjYgMy42LTMuNiAzLjYgMS42MiAzLjYgMy42LTEuNjIgMy42LTMuNiAzLjZ6Ii8+PC9zdmc+&logoColor=white" />
+<img src="https://img.shields.io/badge/-AI_&_ML-00d4ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMS4zMyAxMi45MWMuMDktLjI5LjE0LS42LjE0LS45MSAwLS4zMS0uMDUtLjYyLS4xNC0uOTFsMS45Ny0xLjU0Yy4xOC0uMTQuMjMtLjQxLjEyLS42MWwtMS45Ny0zLjQxYy0uMTItLjIyLS4zNy0uMjktLjU5LS4yMmwtMi4zOS45NmMtLjUtLjM4LTEuMDMtLjctMS42Mi0uOTRMMTYuNjIuNTNjLS4wNC0uMjMtLjI0LS40MS0uNDgtLjQxaC0zLjk0Yy0uMjQgMC0uNDQuMTgtLjQ4LjQxbC0uMzIgMi41NWMtLjU5LjI0LTEuMTMuNTctMS42Mi45NGwtMi4zOS0uOTZjLS4yMi0uMDgtLjQ3IDAtLjU5LjIybC0xLjk3IDMuNDFjLS4xMi4yMi0uMDcuNDkuMTIuNjFsMS45NyAxLjU0Yy0uMDkuMjktLjE0LjYtLjE0LjkxIDAgLjMxLjA1LjYyLjE0LjkxbC0xLjk3IDEuNTRjLS4xOC4xNC0uMjMuNDEtLjEyLjYxbDEuOTcgMy40MWMuMTIuMjIuMzcuMjkuNTkuMjJsMi4zOS0uOTZjLjUuMzggMS4wMy43IDEuNjIuOTRsLjMyIDIuNTVjLjA0LjIzLjI0LjQxLjQ4LjQxaDMuOTRjLjI0IDAgLjQ0LS4xOC40OC0uNDFsLjMyLTIuNTVjLjU5LS4yNCAxLjEzLS41NyAxLjYyLS45NGwyLjM5Ljk2Yy4yMi4wOC40NyAwIC41OS0uMjJsMS45Ny0zLjQxYy4xMi0uMjIuMDctLjQ5LS4xMi0uNjFsLTEuOTctMS41NHpNMTIgMTUuNmMtMS45OCAwLTMuNi0xLjYyLTMuNi0zLjZzMS42Mi0zLjYgMy42LTMuNiAzLjYgMS42MiAzLjYgMy42LTEuNjIgMy42LTMuNiAzLjZ6Ii8+PC9zdmc+&logoColor=white" />
 <br/><br/>
 <b>Artificial<br/>Intelligence</b>
 <br/><br/>
@@ -387,6 +387,6 @@ Jashore-7408, Bangladesh
 <br/><br/>
 
 <!-- FOOTER WAVE -->
-<img src="./footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d4ff,8b5cf6,0a0f1e&height=120&section=footer" width="100%"/>
 
 </div>
